@@ -1,0 +1,29 @@
+REQUERIMIENTOS NO FUNCIONALES
+
+EFICIENCIA
+Toda funcionalidad del sistema debe responder al usuario en menos de 10 segundos.
+
+CONFIABILIDAD
+El sistema debe garantizar continuidad del servicio prestado.
+
+SEGURIDAD
+El sistema debe asegurar que los datos estén protegidos del acceso no autorizado.
+
+DISPONIBILIDAD
+Disposición del sistema para prestar servicio correctamente.
+
+
+USABILIDAD
+El tiempo de aprendizaje del sistema por un usuario deberá ser menor a 2 horas
+El sistema debe contar con manuales de usuario estructurados adecuadamente.
+El sistema será desarrollado para las plataformas PC.
+El sistema debe poseer interfaces gráficas bien formadas.
+El sistema debe proporcionar mensajes de error que sean informativos y orientados a usuario finaL.
+
+
+MANTENIBILIDAD
+El sistema deberá estar apto a modificaciones con el fin de agregar funcionalidades que tengan como fin mejorar su usabilidad.
+
+
+DESARROLO
+El sistema se desarrollará en Lenguaje de programación C# .Net (IDE Visual Studio, plataforma de desarrollo Microsoft)
