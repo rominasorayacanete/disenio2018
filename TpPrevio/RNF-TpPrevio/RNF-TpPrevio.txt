@@ -1,0 +1,23 @@
+REQUERIMIENTOS NO FUNCIONALES
+
+EFICIENCIA
+Toda funcionalidad del sistema debe responder al usuario en menos de 5 segundos.
+
+
+SEGURIDAD
+El sistema debe asegurar que los datos estén protegidos del acceso no autorizado.
+
+
+USABILIDAD
+El sistema será desarrollado para las plataformas PC.
+El sistema debe poseer interfaces gráficas bien formadas.
+El sistema debe proporcionar mensajes de error que sean informativos y orientados a usuario finaL.
+
+DEPENDIBILIDAD
+El tiempo para iniciar o reiniciar el sistema no podrá ser mayor a 5 minutos.
+La tasa de tiempos de falla del sistema no podrá ser mayor al 0,5% del tiempo de operación total.
+El promedio de duración de fallas no podrá ser mayor a 15 minutos.
+
+MANTENIBILIDAD
+El sistema deberá estar apto a modificaciones con el fin de agregar funcionalidades que tengan como fin mejorar su usabilidad.
+
