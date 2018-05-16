@@ -27,5 +27,7 @@ namespace TpPrevio
     
         public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
         public virtual DbSet<User> Users { get; set; }
+
+        public System.Data.Entity.DbSet<TpPrevio.Models.Country> Countries { get; set; }
     }
 }
