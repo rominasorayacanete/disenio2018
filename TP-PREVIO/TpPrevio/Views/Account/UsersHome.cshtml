@@ -9,24 +9,5 @@ LogIn OK!
 <text>@Html.ActionLink("LogOut", "LogOut", "Account")</text>
 
 
-@using (Html.BeginForm("UsersHome", "Account", FormMethod.Post, new { }))
-{
-    <p>@Html.ViewData["usuario"]</p>
-    <p>@Html.ViewData["CountryRequest"]</p>
-    <div class="form-group">
-        <div class="col-md-10">
-
-            Country: @Html.DropDownList("paises")
-
-        </div>
-    </div>
-    <br><br />
-    <br><br />
-    <div class="form-group">
-        <div class="col-md-offset-5 col-md-8">
-            <input type="submit" class="btn btn-default" value="Select Country" />
-        </div>
-    </div>
-}
 
 

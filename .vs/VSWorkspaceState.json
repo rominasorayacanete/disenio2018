@@ -3,8 +3,11 @@
     "",
     "\\TP-PREVIO",
     "\\TP-PREVIO\\TpPrevio",
-    "\\TpPrevio\\RNF-TpPrevio"
+    "\\TP-PREVIO\\TpPrevio\\Controllers",
+    "\\TP-PREVIO\\TpPrevio\\Models",
+    "\\TP-PREVIO\\TpPrevio\\Views",
+    "\\TP-PREVIO\\TpPrevio\\Views\\Account"
   ],
-  "SelectedNode": "\\TP-PREVIO\\README.txt",
+  "SelectedNode": "\\TP-PREVIO\\TpPrevio\\Controllers\\AccountController.cs",
   "PreviewInSolutionExplorer": false
 }
